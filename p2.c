@@ -47,6 +47,7 @@ int main ()
             printf ("%c.", toupper(s[i][0]));
             
     }
+    cbcnns
     return 0;
 }
         
